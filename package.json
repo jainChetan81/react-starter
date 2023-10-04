@@ -152,7 +152,7 @@
     "eslint-plugin-react": "^7.23.2",
     "eslint-plugin-react-hooks": "^4",
     "eslint-plugin-testing-library": "^4.9.0",
-    "fork-ts-checker-webpack-plugin": "^6.2.12",
+    "fork-ts-checker-webpack-plugin": "^9.0.0",
     "husky": "^7.0.1",
     "identity-obj-proxy": "^3.0.0",
     "image-minimizer-webpack-plugin": "^2.2.0",
