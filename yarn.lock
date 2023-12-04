@@ -1910,10 +1910,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-helmet@^6.1.1":
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/@types/react-helmet/-/react-helmet-6.1.1.tgz#4fde22cbcaa1b461642e1d719cc6162d95acb110"
-  integrity sha512-VmSCMz6jp/06DABoY60vQa++h1YFt0PfAI23llxBJHbowqFgLUL0dhS1AQeVPNqYfRp9LAfokrfWACTNeobOrg==
+"@types/react-helmet@^6.1.10":
+  version "6.1.10"
+  resolved "https://registry.yarnpkg.com/@types/react-helmet/-/react-helmet-6.1.10.tgz#60b6fc3a8a78ececc6d652789fdf54c562d76763"
+  integrity sha512-1qViSUxZ2ecsN107eQ16EccqJRfKtmf5Skh2Iv9BM8dEmp58czjBxvObRI6TZvdpZx+i42htAVVx1uLECovRBQ==
   dependencies:
     "@types/react" "*"
 
